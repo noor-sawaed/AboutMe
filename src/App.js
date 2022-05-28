@@ -1,8 +1,9 @@
 import './App.css';
+import {Header} from './Components/UI/Header';
 
 function App() {
   return (
-    <h1>here lies the main code</h1>
+    <Header></Header>
   );
 }
 
