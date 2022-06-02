@@ -1,5 +1,6 @@
 import './App.css';
-import {Header} from './Components/UI/Header';
+import Header from './Components/UI/Header';
+// export * from "./Header";
 
 function App() {
   return (

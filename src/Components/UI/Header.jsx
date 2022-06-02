@@ -2,9 +2,9 @@
 import React from 'react';
 
 const Header = (props) => {
-    return (<h1>this is header</h1>);
+    return (<h1>Lumos</h1>);
     
 }
+export default Header;
 
-module.exports = {Header};
 
